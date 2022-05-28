@@ -1,10 +1,8 @@
+# Logic Circuit Simulator
 # Contributors:
 
 <h4> Urulbaeva Nuriza </h4>
-
 <h4> Sovetbekov Nurel </h4>
-
-# Logic Circuit Simulator
 
 # Project Demonstration
 
